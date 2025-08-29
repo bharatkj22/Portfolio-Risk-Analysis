@@ -29,3 +29,4 @@ This project demonstrates end-to-end portfolio optimization by integrating tradi
 .  ESG-adjusted investment insights.
 
 .  Dashboard-ready plots for presentation & reporting.
+<img width="1736" height="1824" alt="dashboard" src="https://github.com/user-attachments/assets/c88062cd-75f6-40c2-b3b2-ef56d0b0559b" />
