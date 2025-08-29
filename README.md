@@ -1,6 +1,6 @@
 # Portfolio-Risk-Analysis
 
-##🌍 Multi-Asset Portfolio Optimization with ESG & Risk Management
+##  🌍 Multi-Asset Portfolio Optimization with ESG & Risk Management
 
 This project demonstrates end-to-end portfolio optimization by integrating traditional financial assets (Equities, Gold, Bonds, FX) with risk management techniques and sustainability factors (ESG).
 
